@@ -4,12 +4,12 @@ import time
 
 # --- MODIFIED: Pin setup for 2 BTS7960 motor drivers ---
 # Left side motors are connected to one BTS7960
-LEFT_RPWM = 24  # Forward
-LEFT_LPWM = 23  # Backward
+LEFT_RPWM = 17  # Forward
+LEFT_LPWM = 27  # Backward
 
 # Right side motors are connected to the other BTS7960
-RIGHT_RPWM = 22 # Forward
-RIGHT_LPWM = 27 # Backward
+RIGHT_RPWM = 23 # Forward
+RIGHT_LPWM = 17 # Backward
 
 GPIO.setmode(GPIO.BCM)
 pins = [LEFT_RPWM, LEFT_LPWM, RIGHT_RPWM, RIGHT_LPWM]
