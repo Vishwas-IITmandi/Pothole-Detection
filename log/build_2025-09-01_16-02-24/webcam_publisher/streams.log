@@ -1,0 +1,36 @@
+[0.485s] Invoking command in '/home/vishwas/ros2_ws/src/webcam_publisher': PYTHONPATH=/home/vishwas/ros2_ws/build/webcam_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vishwas/ros2_ws/install/webcam_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/webcam_publisher build --build-base /home/vishwas/ros2_ws/build/webcam_publisher/build install --record /home/vishwas/ros2_ws/build/webcam_publisher/install.log --single-version-externally-managed install_data
+[0.615s] running egg_info
+[0.616s] creating ../../build/webcam_publisher/webcam_publisher.egg-info
+[0.616s] writing ../../build/webcam_publisher/webcam_publisher.egg-info/PKG-INFO
+[0.616s] writing dependency_links to ../../build/webcam_publisher/webcam_publisher.egg-info/dependency_links.txt
+[0.616s] writing entry points to ../../build/webcam_publisher/webcam_publisher.egg-info/entry_points.txt
+[0.616s] writing requirements to ../../build/webcam_publisher/webcam_publisher.egg-info/requires.txt
+[0.616s] writing top-level names to ../../build/webcam_publisher/webcam_publisher.egg-info/top_level.txt
+[0.616s] writing manifest file '../../build/webcam_publisher/webcam_publisher.egg-info/SOURCES.txt'
+[0.617s] reading manifest file '../../build/webcam_publisher/webcam_publisher.egg-info/SOURCES.txt'
+[0.617s] writing manifest file '../../build/webcam_publisher/webcam_publisher.egg-info/SOURCES.txt'
+[0.618s] running build
+[0.618s] running build_py
+[0.618s] creating /home/vishwas/ros2_ws/build/webcam_publisher/build
+[0.618s] creating /home/vishwas/ros2_ws/build/webcam_publisher/build/lib
+[0.618s] creating /home/vishwas/ros2_ws/build/webcam_publisher/build/lib/webcam_publisher
+[0.618s] copying webcam_publisher/publisher_node.py -> /home/vishwas/ros2_ws/build/webcam_publisher/build/lib/webcam_publisher
+[0.618s] copying webcam_publisher/__init__.py -> /home/vishwas/ros2_ws/build/webcam_publisher/build/lib/webcam_publisher
+[0.618s] running install
+[0.618s] running install_lib
+[0.618s] creating /home/vishwas/ros2_ws/install/webcam_publisher/lib/python3.10/site-packages/webcam_publisher
+[0.618s] copying /home/vishwas/ros2_ws/build/webcam_publisher/build/lib/webcam_publisher/publisher_node.py -> /home/vishwas/ros2_ws/install/webcam_publisher/lib/python3.10/site-packages/webcam_publisher
+[0.618s] copying /home/vishwas/ros2_ws/build/webcam_publisher/build/lib/webcam_publisher/__init__.py -> /home/vishwas/ros2_ws/install/webcam_publisher/lib/python3.10/site-packages/webcam_publisher
+[0.618s] byte-compiling /home/vishwas/ros2_ws/install/webcam_publisher/lib/python3.10/site-packages/webcam_publisher/publisher_node.py to publisher_node.cpython-310.pyc
+[0.619s] byte-compiling /home/vishwas/ros2_ws/install/webcam_publisher/lib/python3.10/site-packages/webcam_publisher/__init__.py to __init__.cpython-310.pyc
+[0.619s] running install_data
+[0.619s] creating /home/vishwas/ros2_ws/install/webcam_publisher/share/ament_index
+[0.619s] creating /home/vishwas/ros2_ws/install/webcam_publisher/share/ament_index/resource_index
+[0.619s] creating /home/vishwas/ros2_ws/install/webcam_publisher/share/ament_index/resource_index/packages
+[0.619s] copying resource/webcam_publisher -> /home/vishwas/ros2_ws/install/webcam_publisher/share/ament_index/resource_index/packages
+[0.619s] copying package.xml -> /home/vishwas/ros2_ws/install/webcam_publisher/share/webcam_publisher
+[0.619s] running install_egg_info
+[0.620s] Copying ../../build/webcam_publisher/webcam_publisher.egg-info to /home/vishwas/ros2_ws/install/webcam_publisher/lib/python3.10/site-packages/webcam_publisher-0.0.0-py3.10.egg-info
+[0.620s] running install_scripts
+[0.633s] writing list of installed files to '/home/vishwas/ros2_ws/build/webcam_publisher/install.log'
+[0.647s] Invoked command in '/home/vishwas/ros2_ws/src/webcam_publisher' returned '0': PYTHONPATH=/home/vishwas/ros2_ws/build/webcam_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vishwas/ros2_ws/install/webcam_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/webcam_publisher build --build-base /home/vishwas/ros2_ws/build/webcam_publisher/build install --record /home/vishwas/ros2_ws/build/webcam_publisher/install.log --single-version-externally-managed install_data

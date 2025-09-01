@@ -1,0 +1,3 @@
+[console_scripts]
+subscriber = yolo_subscriber.subscriber_node:main
+
